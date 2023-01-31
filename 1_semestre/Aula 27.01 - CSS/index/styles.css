@@ -1,0 +1,23 @@
+.ip{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(4, 4, 72) ;
+    background-color: azure;
+    font-style: italic;
+}
+
+h2{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(38, 1, 90);
+    font-style: italic;
+}
+
+body{
+    background-color: azure;
+}
+
+   
