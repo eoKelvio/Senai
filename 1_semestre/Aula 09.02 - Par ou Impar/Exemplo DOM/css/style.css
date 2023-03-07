@@ -1,0 +1,22 @@
+body{display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    font-size: 30px;
+}
+body #cm{
+    text-decoration: none;
+    color: white;
+}
+
+#cm{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

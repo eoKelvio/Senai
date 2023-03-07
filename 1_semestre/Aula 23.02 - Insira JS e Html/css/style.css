@@ -1,0 +1,19 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(7, 0, 32);
+    color: white;
+    overflow: hidden;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+#page2{
+    display: none;
+}
